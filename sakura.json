@@ -1,38 +1,38 @@
 {
-  "name": "Evening 🌃",
+  "name": "sakura 🌸",
   "version": "3.2023",
-  "description": "We will soon be reaching an altitude of four million and a half feet",
-  "authors": [
+
+
     {
-      "name": "vozer 🎀",
-      "id": "359175647257690113"
+      "name": "`kinj",
+
     }
   ],
   "semanticColors": {
     "KEYBOARD": [
-      "#101C2E"
+      "#000000"
     ],
     "CHAT_BACKGROUND": [
-      "#030f21"
+      "#000000"
     ],
     "BACKGROUND_PRIMARY": [
-      "#101C2E"
+      "#000000"
     ],
     "BACKGROUND_SECONDARY": [
-      "#101C2E"
+      "#000000"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#030F21"
+      "#000000"
     ],
     "BACKGROUND_TERTIARY": [
-      "#030f21"
+      "#000000"
     ],
     "BACKGROUND_ACCENT": [
-      "#a7a3eb"
+      "#c7247e"
     ],
     "BACKGROUND_FLOATING": [
-      "#030f21"
-    ],
+      "#000000"
+    ], 
     "BACKGROUND_NESTED_FLOATING": [
       "#101320"
     ],
