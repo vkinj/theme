@@ -18,7 +18,7 @@
             "#000000"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#1a1a1a"
+            "#000000"
         ],
         "BACKGROUND_TERTIARY": [
             "#000000"
@@ -36,7 +36,7 @@
             "#000000"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#1a1a1a"
+            "#000000"
         ],
         "BACKGROUND_MENTIONED": [
             "#f9267210"
@@ -48,7 +48,7 @@
             "#ffe8f3"
         ],
         "HEADER_SECONDARY": [
-            "#dddddd"
+            "#000000"
         ],
         "TEXT_NORMAL": [
             "#f2f2f2"
