@@ -44,6 +44,9 @@
         "BACKGROUND_MESSAGE_HIGHLIGHT": [
             "#851840"
         ],
+         "CHANNELTEXTAREA_BACKGROUND": [
+            "#ffffff"
+        ],
         "HEADER_PRIMARY": [
             "#ffe8f3"
         ],
