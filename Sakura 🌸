@@ -30,13 +30,13 @@
             "#000000"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#000000"
+            "#121212"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#000000"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#ffffff"
+            "#000000"
         ],
         "BACKGROUND_MENTIONED": [
             "#800f41"
