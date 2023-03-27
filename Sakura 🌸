@@ -39,7 +39,7 @@
             "#ffffff"
         ],
         "BACKGROUND_MENTIONED": [
-            "#800f41"
+            "##3b0f22"
         ],
         "BACKGROUND_MESSAGE_HIGHLIGHT": [
             "#851840"
