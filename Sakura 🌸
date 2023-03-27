@@ -60,7 +60,7 @@
             "#ffffff"
         ],
         "CONTROL_BRAND_FOREGROUND": [
-            "#f92672"
+            "#fca0c1"
         ],
         "CHANNEL_ICON": [
             "#000000"
@@ -69,7 +69,7 @@
             "#ffffff"
         ],
         "INTERACTIVE_NORMAL": [
-            "#666666"
+            "#ffffff"
         ],
         "INTERACTIVE_ACTIVE": [
             "#fca0c1"
