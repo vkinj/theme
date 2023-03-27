@@ -1,6 +1,6 @@
 {
-    "name": "sakura test",
-    "description": "test.",
+    "name": "sakura 🌸",
+    "description": "Amoled Sakura.",
     "authors": [
         {
             "name": "`kinj",
@@ -24,7 +24,7 @@
             "#000000"
         ],
         "BACKGROUND_FLOATING": [
-            "#000000"
+            "#f1f1f1"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#000000"
