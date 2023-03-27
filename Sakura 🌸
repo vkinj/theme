@@ -44,9 +44,6 @@
         "BACKGROUND_MESSAGE_HIGHLIGHT": [
             "#851840"
         ],
-         "CHANNEL_DEFAULT": [
-            "#ffffff"
-        ],
         "HEADER_PRIMARY": [
             "#ffe8f3"
         ],
@@ -69,7 +66,7 @@
             "#000000"
         ],
         "CHANNELS_DEFAULT": [
-            "#000000"
+            "#ffffff"
         ],
         "INTERACTIVE_NORMAL": [
             "#666666"
