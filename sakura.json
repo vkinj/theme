@@ -28,25 +28,25 @@
       "#000000"
     ],
     "BACKGROUND_ACCENT": [
-      "#c7247e"
+      "#000000"
     ],
     "BACKGROUND_FLOATING": [
       "#000000"
     ], 
     "BACKGROUND_NESTED_FLOATING": [
-      "#101320"
+      "#000000"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#101C2E"
+      "#000000"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#101C2E"
+      "#000000"
     ],
     "BACKGROUND_MOBILE_TERTIARY": [
-      "#030f21"
+      "#000000"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "#101C2F"
+      "#000000"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
       "#716BAC"
