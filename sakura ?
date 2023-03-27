@@ -18,7 +18,7 @@
             "#0b0105"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#15020b"
+            "#ffffff"
         ],
         "BACKGROUND_TERTIARY": [
             "#0b0105"
@@ -30,13 +30,13 @@
             "#000000"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#0b0105"
+            "#ffffff"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#0b0105"
+            "#ffffff"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#0b0105"
+            "#000000"
         ],
         "BACKGROUND_MENTIONED": [
             "#200310"
