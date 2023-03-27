@@ -57,10 +57,10 @@
             "#ffe8f3"
         ],
         "TEXT_BRAND": [
-            "#f92672"
+            "#ffffff"
         ],
         "CONTROL_BRAND_FOREGROUND": [
-            "#f92672"
+            "#000000"
         ],
         "CHANNEL_ICON": [
             "#000000"
