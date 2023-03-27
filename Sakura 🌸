@@ -36,10 +36,10 @@
             "#000000"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#460b20"
+            "#fca0c1"
         ],
         "BACKGROUND_MENTIONED": [
-            "#f9267210"
+            "#381d27"
         ],
         "BACKGROUND_MESSAGE_HIGHLIGHT": [
             "#851840"
