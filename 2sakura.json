@@ -60,7 +60,7 @@
             "#ffffff"
         ],
         "HEADER_SECONDARY": [
-            "#c2c2c2"
+            "#ffffff"
         ],
         "INTERACTIVE_ACTIVE": [
             "#ffffff"
@@ -75,7 +75,7 @@
             "#ff1759"
         ],
         "BACKGROUND_MENTIONED": [
-            "#000000"
+            "#4211321"
         ]
     },
     "rawColors": {
