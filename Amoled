@@ -1,0 +1,112 @@
+{
+    "name": "sakura 🌸",
+    "description": "Amoled Sakura.",
+    "authors": [
+        {
+            "name": "`kinj",
+            "id": "732251329803583541"
+        }
+    ],
+    "semanticColors": {
+        "CHAT_BACKGROUND": [
+            "#000000"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#000000"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#000000"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#000000"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#000000"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#000000"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#000000"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#000000"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#000000"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#ffffff"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "#381d27"
+        ],
+        "BACKGROUND_MESSAGE_HIGHLIGHT": [
+            "#851840"
+        ],
+        "HEADER_PRIMARY": [
+            "#ffffff"
+        ],
+        "HEADER_SECONDARY": [
+            "#000000"
+        ],
+        "TEXT_NORMAL": [
+            "#fffffff"
+        ],
+        "TEXT_LINK": [
+            "#ffe8f3"
+        ],
+        "TEXT_BRAND": [
+            "#ffffff"
+        ],
+        "CONTROL_BRAND_FOREGROUND": [
+            "#ffffff"
+        ],
+        "CHANNEL_ICON": [
+            "#000000"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#ffffff"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#ffffff"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#ffffff"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_600": "#000000",
+        "PRIMARY_500": "#000000",
+        "BRAND_100": "#000000",
+        "BRAND_130": "#fee5ee",
+        "BRAND_160": "#fedce8",
+        "BRAND_200": "#fed4e3",
+        "BRAND_230": "#fdc2d8",
+        "BRAND_260": "#fdb1cc",
+        "BRAND_300": "#fca0c1",
+        "BRAND_330": "#fc8eb6",
+        "BRAND_345": "#fb7daa",
+        "BRAND_360": "#fffffff",
+        "BRAND_400": "#fffffff",
+        "BRAND_430": "#fffffff",
+        "BRAND_460": "#fffffff",
+        "BRAND_500": "#fffffff",
+        "BRAND_530": "#fffffff",
+        "BRAND_560": "#fffffff",
+        "BRAND_600": "#fffffff",
+        "BRAND_630": "#fffffff",
+        "BRAND_660": "#fffffff",
+        "BRAND_700": "#fffffff",
+        "BRAND_730": "#fffffff",
+        "BRAND_760": "#fffffff",
+        "BRAND_800": "#fffffff",
+        "BRAND_830": "#fffffff",
+        "BRAND_860": "#000000",
+        "BRAND_900": "#000000",
+        "YELLOW_300": "#f92672",
+        "RED_400": "#f92672",
+        "GREEN_360": "#ffffff"
+    },
+    "spec": 2
+}
