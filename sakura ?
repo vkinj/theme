@@ -33,10 +33,10 @@
             "#000000"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#000000"
+            "#161616"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#000000"
+            "#ffffff"
         ],
         "BACKGROUND_MENTIONED": [
             "#800f41"
