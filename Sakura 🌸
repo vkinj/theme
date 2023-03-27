@@ -21,7 +21,7 @@
             "#000000"
         ],
         "BACKGROUND_TERTIARY": [
-            "#000000"
+            "#ffffff"
         ],
         "BACKGROUND_FLOATING": [
             "#000000"
@@ -30,7 +30,7 @@
             "#000000"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#ffffff"
+            "#000000"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#ffffff"
