@@ -33,7 +33,7 @@
             "#000000"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#000000"
+            "#121212"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#000000"
@@ -45,10 +45,10 @@
             "#000000"
         ],
         "BACKGROUND_MESSAGE_HIGHLIGHT": [
-            "#000000"
+            "#0f0307"
         ],
         "MENTION_BACKGROUND": [
-            "#000000"
+            "#5e162e"
         ],
         "CHAT_BACKGROUND": [
             "#000000"
