@@ -21,19 +21,19 @@
             "#1a1a1a"
         ],
         "BACKGROUND_TERTIARY": [
-            "#1a1a1a"
+            "#000000"
         ],
         "BACKGROUND_FLOATING": [
-            "#1a1a1a"
+            "#000000"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#000000"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#1a1a1a"
+            "#000000"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#1a1a1a"
+            "#000000"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
             "#1a1a1a"
