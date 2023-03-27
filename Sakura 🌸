@@ -36,7 +36,7 @@
             "#000000"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#fca0c1"
+            "#694d57"
         ],
         "BACKGROUND_MENTIONED": [
             "#381d27"
@@ -72,7 +72,7 @@
             "#666666"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#f92672"
+            "#fca0c1"
         ]
     },
     "rawColors": {
