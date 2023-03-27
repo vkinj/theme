@@ -63,16 +63,16 @@
             "#f92672"
         ],
         "CHANNEL_ICON": [
-            "#666666"
+            "#000000"
         ],
         "CHANNELS_DEFAULT": [
-            "#666666"
+            "#000000"
         ],
         "INTERACTIVE_NORMAL": [
             "#666666"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#f2f2f2"
+            "#e52369"
         ]
     },
     "rawColors": {
@@ -102,7 +102,7 @@
         "BRAND_760": "#5a0e29",
         "BRAND_800": "#460b20",
         "BRAND_830": "#320817",
-        "BRAND_860": "#1e050e",
+        "BRAND_860": "#000000",
         "BRAND_900": "#000000",
         "YELLOW_300": "#f92672",
         "RED_400": "#f92672",
