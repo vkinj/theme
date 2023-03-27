@@ -69,10 +69,10 @@
             "#000000"
         ],
         "INTERACTIVE_NORMAL": [
-            "#ffffff"
+            "#000000"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#ffffff"
+            "#000000"
         ]
     },
     "rawColors": {
