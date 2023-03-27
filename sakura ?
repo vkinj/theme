@@ -18,7 +18,7 @@
             "#000000"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#010101"
+            "#000000"
         ],
         "BACKGROUND_TERTIARY": [
             "#0f0f0f"
@@ -45,10 +45,10 @@
             "#66d9ef10"
         ],
         "HEADER_PRIMARY": [
-            "#f2f2f2"
+            "#000000"
         ],
         "HEADER_SECONDARY": [
-            "#dddddd"
+            "#000000"
         ],
         "TEXT_NORMAL": [
             "#f2f2f2"
