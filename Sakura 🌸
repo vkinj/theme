@@ -36,7 +36,7 @@
             "#000000"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#000000"
+            "#ffffff"
         ],
         "BACKGROUND_MENTIONED": [
             "#800f41"
@@ -54,7 +54,7 @@
             "#f2f2f2"
         ],
         "TEXT_LINK": [
-            "##ffe8f3"
+            "#ffe8f3"
         ],
         "TEXT_BRAND": [
             "#f92672"
