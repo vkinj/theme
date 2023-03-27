@@ -21,10 +21,10 @@
             "#000000"
         ],
         "BACKGROUND_TERTIARY": [
-            "#0f0f0f"
+            "#000000"
         ],
         "BACKGROUND_FLOATING": [
-            "#0f0f0f"
+            "#000000"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#000000"
@@ -36,13 +36,13 @@
             "#161616"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#262626"
+            "#000000"
         ],
         "BACKGROUND_MENTIONED": [
             "#800f41"
         ],
         "BACKGROUND_MESSAGE_HIGHLIGHT": [
-            "#66d9ef10"
+            "#851840"
         ],
         "HEADER_PRIMARY": [
             "#660c34"
@@ -103,7 +103,7 @@
         "BRAND_800": "#460b20",
         "BRAND_830": "#320817",
         "BRAND_860": "#1e050e",
-        "BRAND_900": "#0a0205",
+        "BRAND_900": "#000000",
         "YELLOW_300": "#f92672",
         "RED_400": "#f92672",
         "GREEN_360": "#851840"
