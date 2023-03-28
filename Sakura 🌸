@@ -11,6 +11,10 @@
         "CHAT_BACKGROUND": [
             "#000000"
         ],
+
+        "BACKGROUND_ACCENT" : [
+            "#ffffff"  
+        ],
         "BACKGROUND_PRIMARY": [
             "#000000"
         ],
@@ -72,7 +76,7 @@
             "#ffffff"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#a9a9a9"
+            "#"
         ]
     },
     "rawColors": {
