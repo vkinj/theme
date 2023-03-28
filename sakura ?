@@ -24,7 +24,7 @@
             "#000000"
         ],
         "BACKGROUND_FLOATING": [
-            "#f1f1f1"
+            "#1a1a1a"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#000000"
@@ -33,52 +33,55 @@
             "#000000"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#161616"
+            "#000000"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#ffffff"
+            "#460b20"
         ],
         "BACKGROUND_MENTIONED": [
-            "#800f41"
+            "#f9267210"
         ],
         "BACKGROUND_MESSAGE_HIGHLIGHT": [
             "#851840"
         ],
+         "CHANNEL_DEFAULT": [
+            "#ffffff"
+        ],
         "HEADER_PRIMARY": [
-            "#660c34e"
+            "#ffe8f3"
         ],
         "HEADER_SECONDARY": [
-            "#660c34"
+            "#000000"
         ],
         "TEXT_NORMAL": [
             "#f2f2f2"
         ],
         "TEXT_LINK": [
-            "#ffffff"
+            "#ffe8f3"
         ],
         "TEXT_BRAND": [
-            "#f92672"
+            "#ffffff"
         ],
         "CONTROL_BRAND_FOREGROUND": [
             "#f92672"
         ],
         "CHANNEL_ICON": [
-            "#666666"
+            "#000000"
         ],
         "CHANNELS_DEFAULT": [
-            "#666666"
+            "#000000"
         ],
         "INTERACTIVE_NORMAL": [
             "#666666"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#f2f2f2"
+            "#f92672"
         ]
     },
     "rawColors": {
         "PRIMARY_600": "#000000",
         "PRIMARY_500": "#000000",
-        "BRAND_100": "#fff6f9",
+        "BRAND_100": "#000000",
         "BRAND_130": "#fee5ee",
         "BRAND_160": "#fedce8",
         "BRAND_200": "#fed4e3",
@@ -102,7 +105,7 @@
         "BRAND_760": "#5a0e29",
         "BRAND_800": "#460b20",
         "BRAND_830": "#320817",
-        "BRAND_860": "#1e050e",
+        "BRAND_860": "#000000",
         "BRAND_900": "#000000",
         "YELLOW_300": "#f92672",
         "RED_400": "#f92672",
