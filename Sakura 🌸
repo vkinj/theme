@@ -76,8 +76,8 @@
         ]
     },
     "rawColors": {
-        "PRIMARY_600": "#ffe8f3",
-        "PRIMARY_500": "#ffe8f3",
+        "PRIMARY_600": "#000000",
+        "PRIMARY_500": "#000000",
         "BRAND_100": "#ffe8f3",
         "BRAND_130": "#fee5ee",
         "BRAND_160": "#fedce8",
