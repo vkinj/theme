@@ -69,7 +69,7 @@
             "#ffffff"
         ],
         "INTERACTIVE_NORMAL": [
-            "#ffffff"
+            "#a9a9a9"
         ],
         "INTERACTIVE_ACTIVE": [
             "#fb7daa"
@@ -78,7 +78,7 @@
     "rawColors": {
         "PRIMARY_600": "#ffe8f3",
         "PRIMARY_500": "#ffe8f3",
-        "BRAND_100": "#000000",
+        "BRAND_100": "#ffe8f3",
         "BRAND_130": "#fee5ee",
         "BRAND_160": "#fedce8",
         "BRAND_200": "#fed4e3",
