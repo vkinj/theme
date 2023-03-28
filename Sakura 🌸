@@ -45,16 +45,16 @@
             "#851840"
         ],
         "HEADER_PRIMARY": [
-            "#ffe8f3"
+            "#ffffff"
         ],
         "HEADER_SECONDARY": [
-            "#ffe8f3"
+            "#ffffff"
         ],
         "TEXT_NORMAL": [
             "#ffffff"
         ],
         "TEXT_LINK": [
-            "#ffe8f3"
+            "#ad0759"
         ],
         "TEXT_BRAND": [
             "#ffffff"
@@ -69,43 +69,43 @@
             "#ffffff"
         ],
         "INTERACTIVE_NORMAL": [
-            "#fb7daa"
+            "#ffffff"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#fb7daa"
+            "#9e004f"
         ]
     },
     "rawColors": {
-        "PRIMARY_600": "#ffe8f3",
-        "PRIMARY_500": "#ffe8f3",
-        "BRAND_100": "#ffe8f3",
-        "BRAND_130": "#fee5ee",
-        "BRAND_160": "#fedce8",
-        "BRAND_200": "#fed4e3",
-        "BRAND_230": "#fdc2d8",
-        "BRAND_260": "#fdb1cc",
-        "BRAND_300": "#fca0c1",
-        "BRAND_330": "#fc8eb6",
-        "BRAND_345": "#fb7daa",
-        "BRAND_360": "#ffe8f3",
-        "BRAND_400": "#ffe8f3",
-        "BRAND_430": "#ffe8f3",
-        "BRAND_460": "#ffe8f3",
-        "BRAND_500": "#ffe8f3",
-        "BRAND_530": "#ffe8f3",
-        "BRAND_560": "#ffe8f3",
-        "BRAND_600": "#ffe8f3",
-        "BRAND_630": "#ffe8f3",
-        "BRAND_660": "#ffe8f3",
-        "BRAND_700": "#ffe8f3",
-        "BRAND_730": "#ffe8f3",
-        "BRAND_760": "#ffe8f3",
-        "BRAND_800": "#460b20",
-        "BRAND_830": "#320817",
-        "BRAND_860": "#ffe8f3",
-        "BRAND_900": "#ffe8f3",
-        "YELLOW_300": "#f92672",
-        "RED_400": "#f92672",
+        "PRIMARY_600": "#ffffff",
+        "PRIMARY_500": "#ffffff",
+        "BRAND_100": "#ffffff",
+        "BRAND_130": "#ffffff",
+        "BRAND_160": "#ffffff",
+        "BRAND_200": "#ffffff",
+        "BRAND_230": "#ffffff",
+        "BRAND_260": "#ffffff",
+        "BRAND_300": "#ffffff",
+        "BRAND_330": "#ffffff",
+        "BRAND_345": "#ffffff",
+        "BRAND_360": "#ffffff",
+        "BRAND_400": "#ffffff",
+        "BRAND_430": "#ffffff",
+        "BRAND_460": "#ffffff",
+        "BRAND_500": "#ffffff",
+        "BRAND_530": "#ffffff",
+        "BRAND_560": "#ffffff",
+        "BRAND_600": "#ffffff",
+        "BRAND_630": "#ffffff",
+        "BRAND_660": "#ffffff",
+        "BRAND_700": "#ffffff",
+        "BRAND_730": "#ffffff",
+        "BRAND_760": "#ffffff",
+        "BRAND_800": "#ffffff",
+        "BRAND_830": "#ffffff",
+        "BRAND_860": "#ffffff",
+        "BRAND_900": "#ffffff",
+        "YELLOW_300": "#ffffff",
+        "RED_400": "#ffffff",
         "GREEN_360": "#fca0c1"
     },
     "spec": 2
