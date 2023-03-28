@@ -69,13 +69,13 @@
             "#000000"
         ],
         "CHANNELS_DEFAULT": [
-            "#000000"
+            "#ffffff"
         ],
         "INTERACTIVE_NORMAL": [
-            "#666666"
+            "#000000"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#f92672"
+            "#a9a9a9"
         ]
     },
     "rawColors": {
