@@ -21,10 +21,10 @@
             "#9f9f9f"
         ],
         "TEXT_LINK": [
-            "#ff5f7f"
+            "#ff9f9b"
         ],
         "TEXT_DANGER": [
-            "#ff5f7f"
+            "#ff9f9b"
         ],
         "INTERACTIVE_NORMAL": [
             "#ffffff"
@@ -90,7 +90,7 @@
             "#9f9f9f"
         ],
         "TEXT_LINK": [
-            "#ff5f7f"
+            "#ff9f9b"
         ],
         "CHANNEL_ICON": [
             "#ffffff"
