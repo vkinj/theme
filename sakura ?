@@ -1,10 +1,10 @@
 {
-    "name": "RosiePink170",
-    "description": "Rosie v2 but wayy more pink :333",
-    "version": "2.1",
+    "name": "Amoled Sakura",
+    "description": "Sakura"
+    "version": "0.1",
     "authors": [{
-        "name": "Rosie<3",
-        "id": "581573474296791211"
+        "name": "`kinj",
+        "id": "732251329803583541"
     }],
     "spec": 2,
     "semanticColors": {
