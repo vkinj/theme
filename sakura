@@ -25,7 +25,7 @@
         "BACKGROUND_MOBILE_PRIMARY":    [ "#000000", "#f9f8f9" ],
         "BACKGROUND_MOBILE_SECONDARY":  [ "#000000", "#ffffff" ],
         "BACKGROUND_NESTED_FLOATING":   [ "#000000", "#ffffff" ],
-        "BACKGROUND_MESSAGE_HOVER":     [ "rgba(255, 255, 255, 0.02)", "#ffffff" ],
+        "BACKGROUND_MESSAGE_HOVER":     [ "#9f9f9f", "#ffffff" ],
         "BACKGROUND_MODIFIER_HOVER":    [ "rgba(255, 255, 255, 0.02)", "rgba(139, 116, 139, 0.08)" ],
         "BACKGROUND_MODIFIER_ACTIVE":   [ "rgba(255, 255, 255, 0.03)", "rgba(139, 116, 139, 0.16)" ],
         "BACKGROUND_MODIFIER_SELECTED": [ "rgba(255, 255, 255, 0.04)", "rgba(139, 116, 139, 0.24)" ],
