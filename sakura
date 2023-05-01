@@ -29,6 +29,8 @@
         "BACKGROUND_MODIFIER_HOVER":    [ "rgba(255, 255, 255, 0.02)", "rgba(139, 116, 139, 0.08)" ],
         "BACKGROUND_MODIFIER_ACTIVE":   [ "rgba(255, 255, 255, 0.03)", "rgba(139, 116, 139, 0.16)" ],
         "BACKGROUND_MODIFIER_SELECTED": [ "rgba(255, 255, 255, 0.04)", "rgba(139, 116, 139, 0.24)" ],
+        "BACKGROUND_MESSAGE_HIGHLIGHT": [ "#171717", "7a7a7a" ],
+        "BACKGROUND_MESSAGE_HIGHLIGHT_HOVER": [ "#949cf70f","#949cf733" ],
         "BACKGROUND_MODIFIER_ACCENT":   [ "rgba(56, 46, 55, 1)", "hsla(323, 7.7%, 2.5%, 0.08)" ],
         "BACKGROUND_MENTIONED":         [ "#ff63b160", "#ff63b160" ],
         "BACKGROUND_MENTIONED_HOVER":   [ "rgba(255, 171, 213, 0.5)", "rgba(255, 171, 213, 0.5)" ],
